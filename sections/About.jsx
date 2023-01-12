@@ -27,7 +27,6 @@ const About = () => (
           alt="arrow down"
           className="w-[20px] h-[28px] object-contain mt-[28px]" />
     </motion.div>
-    About section
   </section>
 );
 
