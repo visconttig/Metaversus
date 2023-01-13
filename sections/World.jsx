@@ -33,6 +33,9 @@ const World = () => (
                     alt="people"
                     className="w-full h-full " />
               </div>
+              {/* <div className="absolute left-[20%] top-[55%] w-[220px] h-[200px] p-4 rounded-3xl " >
+                <img src="social-world-bottom.png" />
+              </div> */}
               <div className="absolute top-10 left-20 w-[70px] h-[70px] 
                 p-[6px] rounded-full bg-[#5d6680] " >
                   <img src="people-02.png"
