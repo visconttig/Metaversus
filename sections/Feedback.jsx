@@ -33,7 +33,7 @@ const Feedback = () => (
               className="lg:block hidden absolute -left-[10%] top-[3%] " >
                 <img src="/stamp.png"
                   alt="stamp"
-                  className="w-[155px] h-[155px] " />
+                  className="w-[155px] h-[155px] object-contain" />
             </motion.div>
       </motion.div>
      </motion.div>
