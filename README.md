@@ -69,7 +69,3 @@ This project is open source and available under the [MIT License](LICENSE).
 - The Next.js team for their fantastic React framework.
 - The creators of TailwindCSS for their utility-first CSS framework.
 - The Framer Motion team for their powerful motion library.
-
----
-
-Feel free to reach out with any questions or feedback. Enjoy building your Metaversus experience!
